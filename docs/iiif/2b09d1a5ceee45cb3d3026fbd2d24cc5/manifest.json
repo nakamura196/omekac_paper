@@ -1,0 +1,949 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "Provided by Example Organization",
+    "label": "PIG031桑皮標準単宣 観察ポイント1",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "PIG031桑皮標準単宣 観察ポイント1"
+        },
+        {
+            "label": "Identifier",
+            "value": [
+                "PIG031-1",
+                "PIG031-1"
+            ]
+        },
+        {
+            "label": "Relation",
+            "value": "<a class=\"resource-link\" href=\"https://diyhistory.org/toyo/toyo3\"><span class=\"resource-name\">PIG031桑皮標準単宣</span></a>"
+        }
+    ],
+    "related": {
+        "@id": "https://diyhistory.org/toyo/toyo3",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://diyhistory.org/toyo/toyo3/api/items/125",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p1",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2076/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2076",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×20-1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×20-1"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "20"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/513889f0faa6e332675c34056abd8ffd5137dc15.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p2",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2077/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2077",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×50-1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×50-1"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "50"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/c01c961714774d3904360c6df694da27ea75ed7c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p3",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2078/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2078",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×100-1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×100-1"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "100"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/fef104102633e5764e03ea108da59ecbff5c1f7e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p4",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2079/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2079",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×200-1-3D",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×200-1-3D"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "200"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/d0a27a5db3ebdda9f7c63e1b4f653226f0e77be0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p5",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2080/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2080",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×200-1-3Dsc",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×200-1-3Dsc"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "200"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/c782b8189d79f104b9e6d76960c08785bf8de07f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p6",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2081/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2081",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×200-1-3to2D",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×200-1-3to2D"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "200"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/ba27cef545531a9615751d7c172653237eda0eba.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p7",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2082/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2082",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×200-1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×200-1"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "200"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/5f982cfa1521d148d0f43ddc58cda9d96802c01f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p8",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2083/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2083",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×200-1Compo",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×200-1Compo"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "200"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/f564c2d2a34927581dc27b242354f47251e7186a.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p9",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2084/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2084",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×500-1-3D",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×500-1-3D"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "500"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/8d426126b536d6bb8bf8a094934d896de9cf4206.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p10",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2085/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2085",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×500-1-3Dsc",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×500-1-3Dsc"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "500"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/ba17a85e8a3477b66345e639e157db828a51c020.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p11",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2086/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2086",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×500-1-3to2D",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×500-1-3to2D"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "500"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/328e49dd14f517d45736c3487402f073a530cf02.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p12",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2087/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2087",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×500-1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×500-1"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "500"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/b27325cd950ac67bbe337999959d5f978f29743b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p13",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2088/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2088",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×500-1Compo",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×500-1Compo"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "500"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/a6f9df56ba2f5ca9170b05ee228d46a4aa1e189b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p14",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2089/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2089",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×1000-1-3D",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×1000-1-3D"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "1000"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/c35c2cb15eba9724a7946f0dbc0e614465ea9508.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p15",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2090/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2090",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×1000-1-3Dsc",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×1000-1-3Dsc"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "1000"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/a58310c405b82730ac8c7886d72864912026aa3d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p16",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2091/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2091",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×1000-1-3to2D",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×1000-1-3to2D"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "1000"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/052f3fa6f88e5a58c53a5787aeae7d88f8ec32b6.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p17",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2092/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2092",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×1000-1",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×1000-1"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "1000"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/4de28940e5279bd376efa3d49407ef6beedcda93.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                },
+                {
+                    "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1080,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG031-1/canvas/p18",
+                            "resource": {
+                                "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2093/full/800,600/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/toyo/toyo3/iiif-img/2/2093",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 1440
+                            }
+                        }
+                    ],
+                    "label": {
+                        "@value": "PIG031×1000-1Compo",
+                        "is_public": true,
+                        "property_id": 1,
+                        "property_label": "Title",
+                        "type": "literal"
+                    },
+                    "metadata": [
+                        {
+                            "label": "Title",
+                            "value": "PIG031×1000-1Compo"
+                        },
+                        {
+                            "label": "Extent",
+                            "value": "1000"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/2b959a45fc9ff6fd155d36a8132b3f995c2e764c.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 150,
+                        "width": 200
+                    },
+                    "width": 1440
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://diyhistory.org/toyo/toyo3/files/medium/513889f0faa6e332675c34056abd8ffd5137dc15.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 150,
+        "width": 200
+    }
+}

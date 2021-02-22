@@ -1,0 +1,150 @@
+{
+    "@id": "https://diyhistory.org/toyo/omekac3/api/90.json",
+    "added": "2021-02-10T14:03:59+00:00",
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/1"
+            },
+            "html": false,
+            "text": "PIG030桑皮薄単宣 観察ポイント3"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/manifest"
+        },
+        {
+            "element": {
+                "id": 45,
+                "name": "Publisher",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/45"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/1"
+            },
+            "html": false,
+            "text": "Provided by Example Organization"
+        },
+        {
+            "element": {
+                "id": 57,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/57"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/6"
+            },
+            "html": false,
+            "text": "https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/manifest"
+        },
+        {
+            "element": {
+                "id": 60,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/60"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/6"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/manifest\",\"@type\":\"sc:Manifest\",\"label\":\"PIG030\\u6851\\u76ae\\u8584\\u5358\\u5ba3 \\u89b3\\u5bdf\\u30dd\\u30a4\\u30f3\\u30c83\",\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/66949c7c4ea1e499dc08041fcbe9b74e1750e2ee.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"attribution\":\"Provided by Example Organization\",\"related\":{\"@id\":\"https://diyhistory.org/toyo/toyo3\",\"format\":\"text/html\"},\"seeAlso\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/api/items/121\",\"format\":\"application/ld+json\"},\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u6851\\u76ae\\u8584\\u5358\\u5ba3 \\u89b3\\u5bdf\\u30dd\\u30a4\\u30f3\\u30c83\"},{\"label\":\"Identifier\",\"value\":[\"PIG030-3\",\"PIG030-3\"]},{\"label\":\"Relation\",\"value\":\"<a class=\\\"resource-link\\\" href=\\\"https://diyhistory.org/toyo/toyo3\\\"><span class=\\\"resource-name\\\">PIG030\\u6851\\u76ae\\u8584\\u5358\\u5ba3</span></a>\"}],\"sequences\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/sequence/normal\",\"@type\":\"sc:Sequence\",\"label\":\"Current Page Order\",\"viewingDirection\":\"left-to-right\",\"canvases\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p1\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d720-3\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/66949c7c4ea1e499dc08041fcbe9b74e1750e2ee.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0001-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2022/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2022\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p1\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d720-3\"},{\"label\":\"Extent\",\"value\":\"20\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p2\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d750-3\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/319250adf1d093a4d2d5318ff9f53474373c9cb0.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0002-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2023/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2023\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p2\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d750-3\"},{\"label\":\"Extent\",\"value\":\"50\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p3\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7100-3\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/c2de277b3888591693847fbeae2974d1ed3dd0f5.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0003-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2024/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2024\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p3\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7100-3\"},{\"label\":\"Extent\",\"value\":\"100\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p4\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7200-3-3D\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/5c3dd3bc3a77aa0bc7e91c11ef4f327e36f7eb2d.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0004-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2025/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2025\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p4\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7200-3-3D\"},{\"label\":\"Extent\",\"value\":\"200\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p5\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7200-3-3Dsc\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/bb14cabe7f590cabc4a9fd18322d7e627d221313.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0005-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2026/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2026\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p5\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7200-3-3Dsc\"},{\"label\":\"Extent\",\"value\":\"200\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p6\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7200-3-3to2D\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/054330973815e2672437061074c0c272ea0e350c.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0006-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2027/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2027\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p6\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7200-3-3to2D\"},{\"label\":\"Extent\",\"value\":\"200\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p7\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7200-3\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/80c91b6359ff0e84a378ca7a0b7d764c346c2d44.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0007-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2028/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2028\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p7\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7200-3\"},{\"label\":\"Extent\",\"value\":\"200\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p8\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7200-3Compo\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/e9db7c88d4fb331d5b041ada36c5afdabca6ed44.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0008-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2029/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2029\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p8\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7200-3Compo\"},{\"label\":\"Extent\",\"value\":\"200\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p9\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7500-3-3D\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/93ab76c47a65eb5cb7c010a8077d81fd2de3efc3.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0009-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2030/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2030\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p9\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7500-3-3D\"},{\"label\":\"Extent\",\"value\":\"500\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p10\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7500-3-3Dsc\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/95b63429295936a71ee8002879d3b8a6ae9e993a.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0010-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2031/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2031\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p10\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7500-3-3Dsc\"},{\"label\":\"Extent\",\"value\":\"500\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p11\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7500-3-3to2D\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/871fd0164079804f6a0c11c46af378af97c27a79.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0011-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2032/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2032\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p11\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7500-3-3to2D\"},{\"label\":\"Extent\",\"value\":\"500\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p12\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7500-3\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/b2cb83227b752ab1f38642edff4a9199eabc0e31.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0012-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2033/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2033\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p12\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7500-3\"},{\"label\":\"Extent\",\"value\":\"500\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p13\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d7500-3Compo\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/9d37944416d14b5f3804eef597581e8df240831b.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0013-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2034/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2034\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p13\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d7500-3Compo\"},{\"label\":\"Extent\",\"value\":\"500\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p14\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d71000-3-3D\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/3dcbf52400b1d3c1e81a21bf1c09add9563315c6.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0014-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2035/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2035\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p14\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d71000-3-3D\"},{\"label\":\"Extent\",\"value\":\"1000\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p15\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d71000-3-3Dsc\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/df508103a48564df7b1e59e6c346946989be8204.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0015-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2036/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2036\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p15\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d71000-3-3Dsc\"},{\"label\":\"Extent\",\"value\":\"1000\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p16\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d71000-3-3to2D\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/947c5ac0b679f5aafd1e6302ad439fa0522d43fb.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0016-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2037/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2037\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p16\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d71000-3-3to2D\"},{\"label\":\"Extent\",\"value\":\"1000\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p17\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d71000-3\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/230d7b771666a41b6cc6347bef4a9474dd673930.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0017-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2038/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2038\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p17\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d71000-3\"},{\"label\":\"Extent\",\"value\":\"1000\"}]},{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p18\",\"@type\":\"sc:Canvas\",\"label\":{\"type\":\"literal\",\"property_id\":1,\"property_label\":\"Title\",\"is_public\":true,\"@value\":\"PIG030\\u00d71000-3Compo\"},\"thumbnail\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/files/medium/38b8cec172c7e6712e732460d705b840782f0421.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":200,\"height\":150},\"width\":1440,\"height\":1080,\"images\":[{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/annotation/p0018-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2039/full/800,600/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":1440,\"height\":1080,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://diyhistory.org/toyo/toyo3/iiif-img/2/2039\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"on\":\"https://diyhistory.org/toyo/toyo3/iiif/2/PIG030-3/canvas/p18\"}],\"metadata\":[{\"label\":\"Title\",\"value\":\"PIG030\\u00d71000-3Compo\"},{\"label\":\"Extent\",\"value\":\"1000\"}]}]}]}"
+        },
+        {
+            "element": {
+                "id": 58,
+                "name": "IIIF Type",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/58"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/6"
+            },
+            "html": false,
+            "text": "Manifest"
+        },
+        {
+            "element": {
+                "id": 59,
+                "name": "Parent Collection",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/59"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/6"
+            },
+            "html": false,
+            "text": "d7884de6-5890-4002-967b-25f599af04bb"
+        },
+        {
+            "element": {
+                "id": 61,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://diyhistory.org/toyo/omekac3/api/elements/61"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://diyhistory.org/toyo/omekac3/api/element_sets/6"
+            },
+            "html": false,
+            "text": "9b811f7b-a18d-47cd-8efc-471a6054bcc3"
+        }
+    ],
+    "extended_resources": [],
+    "featured": false,
+    "id": 90,
+    "items": {
+        "count": 18,
+        "resource": "items",
+        "url": "https://diyhistory.org/toyo/omekac3/api/items?collection=90"
+    },
+    "modified": "2021-02-10T14:03:59+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://diyhistory.org/toyo/omekac3/api/users/1"
+    },
+    "public": false,
+    "url": "https://diyhistory.org/toyo/omekac3/api/collections/90"
+}
