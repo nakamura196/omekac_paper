@@ -133,8 +133,8 @@ for manifest in canvases:
         "@type" : "sc:Range",
         "label" : m["label"],
         "within" : {
-            "@id" : manifest,
-            "@type" : "https://nakamura196.github.io/omekac_paper/iiif/" + hash + "/manifest.json",
+            "@id" : "https://nakamura196.github.io/omekac_paper/iiif/" + hash + "/manifest.json",
+            "@type" : "sc:Manifest",
             "label" : m["label"]
         },
         "members" : members
